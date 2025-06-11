@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": "cbf1",
+      "title": "Angular 16",
+      "details": "Framework",
+      "complete": true
+    },
+    {
+      "id": "3cdf",
+      "title": "Vue JS",
+      "details": "Vue.js is a progressive JavaScript framework used for building user interfaces. It is designed to be incrementally adoptable, meaning you can use as much or as little of it as you need. Vue's core library focuses on the view layer only, making it easy to integrate with other libraries or existing projects.",
+      "complete": false
+    }
+  ]
+}
